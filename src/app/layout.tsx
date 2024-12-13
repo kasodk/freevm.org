@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "1S",
+  title: "BGPDB",
   description: "This domain is currently parked. Stay tuned for something amazing!",
 };
 
